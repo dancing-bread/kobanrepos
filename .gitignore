@@ -1,0 +1,32 @@
+# Logs
+*.log
+logs/
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Build output
+dist/
+build/
+*.bak
+
+# Environment variables
+.env
+.env.local
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+*.iws
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Specific files to ignore
+my_secret_file.txt
+
+# Negate a previously ignored file (e.g., keep a specific log file)
+!important.log
