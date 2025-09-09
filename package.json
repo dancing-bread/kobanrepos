@@ -1,0 +1,15 @@
+{
+  "name": "kobanrepos",
+  "version": "1.0.0",
+  "description": "умная верстка от учёного сна\r просто для prekola",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^19.1.1"
+  }
+}
